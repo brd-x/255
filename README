@@ -1,1 +1,5 @@
-
+DriverPass aims to fix the low pass rate in driving exams by suppling users with videos, practice tests and in person lessons.
+I feel like I accurately described how the program should function on both the user and server levels by their respective diagrams.
+Despite this, if I were to go back and fix things, I would work more on these diagrams and go into further detail.
+I implemented the users needs by making my diagrams revolve around how the user will interact with the program, as well as how their data is transfered.
+Considering the users needs is the biggest priority, perhaps the same as security, as the company and program will depend entirely on them.
